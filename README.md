@@ -7,7 +7,7 @@
 - 🛠️ My current skills include:  
   - `Java` (OOP & GUI), `C++` (basic)  
   - `HTML/CSS` (basic), `MySQL` (basic)  
-  - Built an **NBI & Police Clearance System** integrated with a MySQL database  
+  - Built an **[NBI & Police Clearance System](https://github.com/deluluyd/NBI-Police-Clearance-System)** integrated with a MySQL database  
 
 - 🎯 My goal before I graduate:  
   - Earn the **CompTIA ITF+ Certification**  
